@@ -1,5 +1,5 @@
 {
-    "name": "flask-illustrations-webpixels",
+    "name": "flask-illustrations-iradesign",
     "mastertemplate": "boilerplate-code-flask",
     "version": "1.0.0",
     "description": "Template project - Flask Boilerplate Code",
@@ -7,10 +7,10 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/app-generator/flask-illustrations-webpixels"
+        "url": "https://github.com/app-generator/flask-illustrations-iradesign"
     },
     "bugs": {
-        "url": "https://github.com/app-generator/flask-illustrations-webpixels/issues",
+        "url": "https://github.com/app-generator/flask-illustrations-iradesign/issues",
         "email": "support@appseed.us"
     },
     "author": "AppSeed App Generator <support@appseed.us> (https://appseed.us)",

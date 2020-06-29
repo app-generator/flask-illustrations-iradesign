@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Armchair" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 537.2 667.9" style="enable-background:new 0 0 537.2 667.9;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:url(#SVGID_1_);}
+	.st2{fill:url(#SVGID_2_);}
+	.st3{fill:url(#SVGID_3_);}
+	.st4{fill:#4C4CBF;}
+</style>
+<polyline class="st0" points="303.3,497.2 324.7,490.7 334.9,664.2 326.5,667.9 303.3,497.2 "/>
+<polygon class="st0" points="464.8,447.1 497.3,436.9 537.2,595.6 527.9,598.3 "/>
+<polygon class="st0" points="82.9,484.1 41.9,615.1 30.9,610.1 49.9,479.1 "/>
+<polygon class="st0" points="274.6,502.8 286.6,502.8 303.3,497.2 326.5,667.9 316.3,665.2 "/>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="54.1003" y1="612.1203" x2="381.4303" y2="320.4403" gradientTransform="matrix(1 0 0 -1 0 670)">
+	<stop  offset="0" style="stop-color:#58CAEA"/>
+	<stop  offset="1" style="stop-color:#4C4CBF"/>
+</linearGradient>
+<polygon class="st1" points="233.1,3.7 424.2,2.8 420.5,426.7 260,441.5 237.1,450.7 50.2,439.4 50.7,427.4 255.4,401.7 "/>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="376.4831" y1="760.8584" x2="150.8031" y2="336.8983" gradientTransform="matrix(1 0 0 -1 0 670)">
+	<stop  offset="0" style="stop-color:#58CAEA"/>
+	<stop  offset="1" style="stop-color:#4C4CBF"/>
+</linearGradient>
+<polygon class="st2" points="167.4,4.4 233.1,3.7 264,417.9 38.7,429.8 26,338.6 77.9,328.5 194.7,322.1 "/>
+<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="827.7972" y1="242.5834" x2="1332.9073" y2="33.2534" gradientTransform="matrix(1 0 0 -1 -779.14 393.14)">
+	<stop  offset="0" style="stop-color:#58CAEA"/>
+	<stop  offset="1" style="stop-color:#4C4CBF"/>
+</linearGradient>
+<path class="st3" d="M0,437.1l1.1,28.1c0,0-0.5,11.6,14.3,12.1s259.1,25.4,259.1,25.4s19.6,5.2,50.1-12.1l176.1-55.8
+	c0,0,6.1-0.5,5.5-11s30.1-410.1,30.1-411.2s-4-5.2-11.9-5.7c-7.2-0.4-82.7-5-82.7-5l0.4,303.9c0,0,2,27.9-10.7,29
+	c-29.1,2.5-147.8,0.7-163.1,12.9c-10.3,8.3,12.9,79.4,15.3,93.9c0.7,4.5-31,2.5-40.9,5.2C234.7,449.1,0,437.1,0,437.1z"/>
+<path class="st4" d="M250.1,337.6c0,0-17.8,0-18.5,12.4c-0.7,10.4-1.1,74.3-1.2,94.6c0,2.9-0.2,5.7-0.8,8.5
+	c-0.7,3.5,3.1,10.9,12,11.1c17.1,0.5,36.3,0,36.3,0s8.2-2.5,6.7-16.4s-16.8-85.5-16.8-85.5s-4.6-17,11.6-17s145.2-9.3,145.2-9.3
+	s17.8,0.8,18.5-15.5s3.9-306.7,3.9-306.7s2.3-12.4-8.5-13.1s-32.4,1.5-32.4,1.5s-7,0.8-7,10.8s12.2,299.5,10.8,305.4
+	c-2.1,9.1-24.4,11.2-36,12S250.1,337.6,250.1,337.6z"/>
+<path class="st4" d="M127.1,19.2c0,0-2-20.4,11.8-19.2c9.6,0.9,19.1,2.4,28.6,4.3c0,0,5.9-0.8,7,5.9s46.2,312.2,43.1,313.4
+	s-160,10.3-163.5,10.3s-16.4-0.4-14.8,9.8s11.5,80.9,11.5,83.7s1.3,13.2-1.4,14S0.1,440,0.1,440l3.5-96c0,0-0.2-16.3,9.2-17.5
+	s172.3-7.6,174.2-9.5s-3.1-18.4-5.1-25.8C180.9,287,127.1,19.2,127.1,19.2z"/>
+</svg>
