@@ -1,4 +1,4 @@
-# [Flask App - Illustrations by IraDesign](https://flask-illustrations-iradesign.appseed.us)
+# [Flask App - Illustrations by IraDesign](https://appseed.us/apps/flask-apps/flask-illustrations-iradesign)
 
 > Open-Source Web App generated in Flask by AppSeed [Web App Generator](https://appseed.us/app-generator) - Features:
 
@@ -14,6 +14,7 @@
 > Links
 
 - [Flask App - Illustrations by IraDesign](https://flask-illustrations-iradesign.appseed.us) - LIVE Demo
+- [Flask App - Illustrations by IraDesign](https://appseed.us/apps/flask-apps/flask-illustrations-iradesign) - Product page
 - [Boierplate Code Flask](https://docs.appseed.us/boilerplate-code/flask/) - Documentation
 - More [Flask Apps](https://appseed.us/apps/flask-apps) - index hosted by **[AppSeed](https://appseed.us)**
 - [Flask Admin Dashboards](https://appseed.us/admin-dashboards/flask) - index hosted by **[AppSeed](https://appseed.us)**
@@ -223,4 +224,4 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 <br />
 
 ---
-[Flask App - Illustrations by Webpixels](https://flask-illustrations-iradesign.appseed.us) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+[Flask App - Illustrations by IraDesign](https://appseed.us/apps/flask-apps/flask-illustrations-iradesign) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
