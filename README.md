@@ -21,7 +21,7 @@
 
 <br />
 
-![Boierplate Code Flask - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/flask-illustrations-iradesign/master/media/flask-illustrations-iradesign-screen.png)
+![Flask App IraDesign - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/flask-illustrations-iradesign/master/media/flask-illustrations-iradesign-screen.png)
 
 <br />
 
