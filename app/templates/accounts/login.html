@@ -24,7 +24,8 @@
                                     {% if msg %}
                                         {{ msg | safe }}
                                     {% else %}
-                                        Use default credentials: <strong>test / pass</strong>
+                                        <small>Not registered?</small>
+                                        <a href="{{ url_for('register') }}" class="small font-weight-bold">Create account</a>   
                                     {% endif %}     
                                 </p>
                             </div>
@@ -61,8 +62,9 @@
                                     <button type="submit" name="login" class="btn btn-block btn-primary">Sign in</button></div>
                             </form>
                         </div>
-                        <div class="card-footer px-md-5"><small>Not registered?</small>
-                            <a href="{{ url_for('register') }}" class="small font-weight-bold">Create account</a>
+                        <div class="card-footer px-md-5 text-center">
+                            &copy; <a target="_blank" href="https://webpixels.io/?ref=appseed">Webpixels</a> 
+                            - coded by <a target="_blank" href="https://appseed.us/">AppSeed</a>.
                         </div>
                     </div>
                 </div>
