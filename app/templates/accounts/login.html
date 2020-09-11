@@ -40,7 +40,7 @@
                                         <div class="input-group-prepend">
                                             <span class="input-group-text"><i data-feather="user"></i></span>
                                         </div>
-                                        <input class="form-control" placeholder="Username" type="text" name="username" value="test">
+                                        {{ form.username(class="form-control") }}
                                     </div>
                                 </div>
                                 
@@ -54,7 +54,7 @@
                                         <div class="input-group-prepend">
                                             <span class="input-group-text"><i data-feather="key"></i></span>
                                         </div>
-                                        <input class="form-control" placeholder="Password" type="password" name="password" value="pass">
+                                        {{ form.password(class="form-control", type="password") }}
                                     </div>
                                 </div>
 
